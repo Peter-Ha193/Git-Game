@@ -1,0 +1,4 @@
+We want to fork the repo because we want to experiment with changes without 
+affecting the main repository.
+
+on github there will be a fork button at the main repo
